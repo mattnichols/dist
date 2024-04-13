@@ -26,7 +26,7 @@ type styles struct {
 
 func defaultStyles() *styles {
 	return &styles{
-		input:    lipgloss.NewStyle().BorderForeground(lipgloss.Color(205)).BorderStyle(lipgloss.NormalBorder()).Padding(1).Width(80),
+		input:    lipgloss.NewStyle().BorderForeground(lipgloss.Color("#999999")).BorderStyle(lipgloss.NormalBorder()).Padding(1).Width(80),
 		title:    lipgloss.NewStyle().Align(lipgloss.Center).Padding(2, 0, 0, 0).Width(80),
 		distance: lipgloss.NewStyle().Bold(true).Padding(1, 1, 2, 2).Width(80),
 	}
