@@ -13,3 +13,5 @@ _Interactive_
 ```
 $ dist
 ```
+
+![](demo.gif)
