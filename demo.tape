@@ -67,7 +67,7 @@ Type "kitten "
 Sleep 500ms
 Type "sitting"
 Enter
-Sleep 2s
+Sleep 6s
 Type "dist"
 Enter
 Sleep 1s
@@ -76,6 +76,6 @@ Sleep 1.5s
 Enter
 Sleep 500ms
 Type "sitting"
-Sleep 3s
+Sleep 6s
 Ctrl+C
-Sleep 2s
+Sleep 1s
