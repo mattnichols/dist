@@ -1,6 +1,6 @@
 # Levenshtein Distance CLI
 
-This is an almost completely useless CLI that calculates the Levenshtein distance between two strings.
+This is an almost completely useless CLI that calculates the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) between two strings.
 
 ## Usage
 
