@@ -17,3 +17,9 @@ $ dist
 ## Demo
 
 ![](demo.gif)
+
+## Credits
+
+* Written in [Go](https://github.com/golang/go)
+* For structure CLI, uses [Cobra](https://github.com/spf13/cobra)
+* For interactive inteface, uses [Bubbletea](https://github.com/charmbracelet/bubbletea) 
